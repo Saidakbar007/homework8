@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tthoves"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson7"
+	}
+}
